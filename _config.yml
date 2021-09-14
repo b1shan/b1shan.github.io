@@ -1,0 +1,21 @@
+title: Bishan
+description: >- 
+  Thoughts and opinions my own. 
+baseurl: "" 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: b1shan
+github_username:  b1shan
+
+favicon: "favicon.png"
+goat_counter: "ebpf"
+theme: no-style-please
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d %a" # customize how date is formatted
+  show_description: true # show blog description in home page

@@ -1,0 +1,5 @@
+entries:
+
+        - title: All Posts
+          post_list:
+                limit: 10
